@@ -1,22 +1,17 @@
-# Scaler Persona Chat — AI Chatbot
+# Persona Chat — AI Chatbot
 
 A persona-based AI chatbot that lets you have real conversations with three Scaler/InterviewBit personalities: **Anshuman Singh**, **Abhimanyu Saxena**, and **Kshitij Mishra**.
 
-Built as a prompt engineering assignment for Scaler Academy.
 
-![Scaler Persona Chat](https://img.shields.io/badge/Scaler-Persona%20Chat-6C5CE7?style=for-the-badge)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=for-the-badge&logo=vite)
 
-## 🚀 Live Demo
+##  Live Demo
 
-**[View Live App →](https://your-deployed-url.vercel.app)**
+**[View Live App →](https://persona-based-ai-chatbott.vercel.app/)**
 
-*(Replace with your actual deployed URL)*
-
+https://persona-based-ai-chatbott.vercel.app/
 ---
 
-## ✨ Features
+##  Features
 
 - **Three Distinct Personas** — Each with deeply researched system prompts
 - **Persona Switcher** — Switch between Anshuman, Abhimanyu, and Kshitij with conversation reset
@@ -27,7 +22,7 @@ Built as a prompt engineering assignment for Scaler Academy.
 - **Dark Theme** — Premium glassmorphism UI with micro-animations
 - **Prompt Engineering** — Few-shot examples, chain-of-thought, output formatting, and constraints
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -37,7 +32,7 @@ Built as a prompt engineering assignment for Scaler Academy.
 | Font | Inter (Google Fonts) |
 | Deployment | Vercel / Netlify |
 
-## 📦 Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 - Node.js 18+ installed
@@ -74,7 +69,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 npm run build
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── public/
@@ -96,7 +91,7 @@ npm run build
 └── README.md              # This file
 ```
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 | Variable | Description |
 |----------|-------------|
@@ -104,18 +99,18 @@ npm run build
 
 > ⚠️ **Never commit your `.env` file.** The `.gitignore` already excludes it.
 
-## 📝 Documentation
+##  Documentation
 
 - **[prompts.md](./prompts.md)** — All three system prompts with inline annotations
 - **[reflection.md](./reflection.md)** — 300-500 word reflection on learnings
 
-## 🎨 Design Highlights
+##  Design Highlights
 
 - **Glassmorphism** — Frosted-glass panels with backdrop blur
 - **Dynamic Accent Colors** — Each persona has a unique color scheme
 - **Micro-Animations** — Floating avatars, message slide-ins, typing bounce
 - **Mobile-First** — Fully responsive with touch-optimized persona switcher
 
-## 📄 License
+##  License
 
 This project is for educational purposes as part of Scaler Academy's Prompt Engineering assignment.
